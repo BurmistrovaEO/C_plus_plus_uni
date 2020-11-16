@@ -1,0 +1,6 @@
+﻿  2D.cpp
+  2D.h
+  main.cpp
+  Создание кода...
+Debug\2D.obj : warning LNK4042: объект указан более одного раза; лишние не учитываются
+  2D.vcxproj -> C:\Users\Kate\Desktop\2D\Debug\2D.exe
